@@ -1,7 +1,7 @@
 # Batalla-naval-2.0
 Videojuego interactivo de Batalla Naval desarrollado con Programación Orientada a Objetos utilizando HTML, CSS y JavaScript.
 
-#BATALLA NAVAL
+# BATALLA NAVAL
 
  Nuestro proyecto consiste en el desarrollo de un videojuego interactivo del famoso juego Batalla naval utilizando el paradigma de programación orientada a objetos.  El objetivo es recrear este juego clásico pero de una forma moderna,intuitiva, cómoda y de un solo jugador. 
 El sistema generará automáticamente un tablero de juego de 8x8 casillas utilizando JavaScript. Los barcos serán posicionados aleatoriamente por el programa al comenzar cada partida, evitando que el jugador conozca previamente su ubicación.
@@ -18,7 +18,7 @@ Mensajes de victoria y derrota según el caso.
 Diseño moderno e intuitivo.
 La partida finalizará con una victoria cuando el jugador logre destruir todos los barcos ocultos. En cambio, el jugador perderá si utiliza todas sus bombas sin completar el objetivo.
 
-##Tecnologías:
+## Tecnologías:
 Vamos a desarrollarlo dentro del paradigma de programación orientada a objetos, utilizando los siguientes lenguajes:
 
 JavaScript → Lógica
